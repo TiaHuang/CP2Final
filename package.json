@@ -1,0 +1,17 @@
+{
+  "name": "cp2final",
+  "version": "1.0.0",
+  "description": "A React-based controller for the Remote Control Cardboard Box",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "tia huang <tianyih@cca.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^2.4.0",
+    "serialport": "^7.1.4",
+    "websocket": "^1.0.28"
+  }
+}
