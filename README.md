@@ -10,7 +10,7 @@ Here is a link to a video that shows what the Animeme Timeline site looks like: 
 Here is what the final display looks like: 
 ![](Documentation/setup-01.jpg)
 ![](Documentation/setup-02.jpg)
-![](Documentation/IMG_4739.HEIC)
+![](Documentation/button.jpg)
 
 Here is my board:
 ![](Documentation/board-01.jpg)
