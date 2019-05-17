@@ -7,5 +7,12 @@ When displayed, the buttons are connected to a computer that is also connected t
 
 Here is a link to a video that shows what the Animeme Timeline site looks like: https://youtu.be/DIdiyMyarJs
 
-Here is what my board looks like: 
+Here is what the final display looks like: 
 ![](Documentation/setup-01.jpg)
+![](Documentation/setup-02.jpg)
+![](Documentation/buttons.jpg)
+
+Here is my board:
+![](Documentation/board-01.jpg)
+![](Documentation/board-02.jpg)
+![](Documentation/board-03.jpg)
